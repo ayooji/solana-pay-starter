@@ -29,12 +29,16 @@
     "@solana/web3.js": "^1.36.0",
     "bignumber.js": "^9.0.2",
     "crypto-js": "^4.1.1",
+    "dynamic": "^4.2.2",
     "ipfs-core": "^0.14.3",
     "ipfs-http-client": "^56.0.3",
     "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-loader-spinner": "^6.0.0-0"
+    "react-icons": "^4.3.1",
+    "react-loader-spinner": "^6.0.0-0",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "parcel": "^2.3.1",

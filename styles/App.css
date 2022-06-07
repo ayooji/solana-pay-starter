@@ -1,6 +1,6 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: rgb(0, 0, 0);
   text-align: center;
   overflow: hidden;
 }
@@ -201,3 +201,4 @@ button:disabled {
     background-position: 0% 50%;
   }
 }
+
